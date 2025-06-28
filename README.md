@@ -18,13 +18,11 @@
 
 ## 📋 Table of Contents
 - [🔍 Project Overview](#-project-overview)
-- [🛠️ Technical Architecture](#️-technical-architecture)
 - [📊 Results & Performance](#-results--performance)
 - [🚀 Quick Start](#-quick-start)
 - [📁 Project Structure](#-project-structure)
 - [🔧 Dependencies](#-dependencies)
 - [📈 Key Insights](#-key-insights)
-- [🤝 Contributing](#-contributing)
 
 ## 🔍 Project Overview
 
@@ -40,8 +38,6 @@ This project demonstrates advanced data science capabilities through a comprehen
 - **Size:** 3,333 total records (2,666 training, 667 testing)
 - **Features:** 19 predictive features + 1 target variable
 - **Challenge:** Class imbalance (14.5% churn rate)
-
-## 🛠️ Technical Architecture
 
 ### 🔧 Data Engineering Pipeline
 ```python
@@ -66,11 +62,6 @@ This project demonstrates advanced data science capabilities through a comprehen
 - **Evaluation Metric:** F1-score (optimal for imbalanced classes)
 - **Overfitting Control:** Regularization parameters and complexity constraints
 - **Feature Engineering:** 67 engineered features from 20 original variables
-
-## 📊 Results & Performance
-
-### 🏆 Model Performance Comparison
-![Model Performance](https://via.placeholder.com/600x300/4CAF50/FFFFFF?text=Model+Performance+Chart)
 
 ### 📈 Key Metrics (Champion Model - XGBoost)
 ```
@@ -100,7 +91,7 @@ Jupyter Notebook
 ### Installation & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/customer-churn-prediction.git
+git clone https://github.com/wendemsky/Customer_Churn_Prediction.git
 cd customer-churn-prediction
 
 # Create virtual environment
@@ -118,9 +109,6 @@ jupyter notebook
 ```bash
 # Open the main notebook
 jupyter notebook v2.ipynb
-
-# Or run the streamlined version
-jupyter notebook main.ipynb
 ```
 
 ## 📁 Project Structure
@@ -182,8 +170,8 @@ jupyter>=1.0.0         # Notebook environment
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
 ### 🐛 Issues & Suggestions
-- Found a bug? [Open an issue](https://github.com/yourusername/customer-churn-prediction/issues)
-- Have an idea? [Start a discussion](https://github.com/yourusername/customer-churn-prediction/discussions)
+- Found a bug? [Open an issue](https://github.com/wendemsky/Customer_Churn_Prediction.git/issues)
+- Have an idea? [Start a discussion](https://github.com/wendemsky/Customer_Churn_Prediction.git/discussions)
 
 ## 📄 License
 
@@ -201,7 +189,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ If you found this project helpful, please give it a star! ⭐**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/customer-churn-prediction.svg?style=social&label=Star)](https://github.com/yourusername/customer-churn-prediction)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/customer-churn-prediction.svg?style=social&label=Fork)](https://github.com/yourusername/customer-churn-prediction/fork)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/customer-churn-prediction.svg?style=social&label=Star)](https://github.com/wendemsky/Customer_Churn_Prediction.git)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/customer-churn-prediction.svg?style=social&label=Fork)](https://github.com/wendemsky/Customer_Churn_Prediction.git/fork)
 
 </div> 

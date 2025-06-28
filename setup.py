@@ -16,16 +16,14 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 setup(
     name="customer-churn-prediction",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Himanshu Maithani",
+    author_email="himanshumaithani2002@gmail.com",
     description="Advanced Customer Segmentation and Churn Prediction using Machine Learning",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/customer-churn-prediction",
+    url="https://github.com/wendemsky/Customer_Churn_Prediction.git",
     project_urls={
-        "Bug Tracker": "https://github.com/yourusername/customer-churn-prediction/issues",
-        "Documentation": "https://github.com/yourusername/customer-churn-prediction#readme",
-        "Source Code": "https://github.com/yourusername/customer-churn-prediction",
+        "Source Code": "https://github.com/wendemsky/Customer_Churn_Prediction.git",
     },
     classifiers=[
         "Development Status :: 5 - Production/Stable",

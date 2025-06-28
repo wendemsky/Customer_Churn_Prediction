@@ -165,14 +165,6 @@ jupyter>=1.0.0         # Notebook environment
 - **Cost Optimization:** Targeted retention efforts based on predictive modeling
 - **Revenue Protection:** Early identification of at-risk high-value customers
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-### 🐛 Issues & Suggestions
-- Found a bug? [Open an issue](https://github.com/wendemsky/Customer_Churn_Prediction.git/issues)
-- Have an idea? [Start a discussion](https://github.com/wendemsky/Customer_Churn_Prediction.git/discussions)
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -186,10 +178,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-
-**⭐ If you found this project helpful, please give it a star! ⭐**
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/customer-churn-prediction.svg?style=social&label=Star)](https://github.com/wendemsky/Customer_Churn_Prediction.git)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/customer-churn-prediction.svg?style=social&label=Fork)](https://github.com/wendemsky/Customer_Churn_Prediction.git/fork)
 
 </div> 
